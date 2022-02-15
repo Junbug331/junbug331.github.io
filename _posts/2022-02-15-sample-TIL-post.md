@@ -10,11 +10,12 @@ thumbnail: /assets/img/posts/hello.jpg
 
 # Test
 ## Test
-'''C++
+
+```c++
 #include <iostream>
 using namespace std;
 int main()
 {
     return 0;
 }
-'''
+```
