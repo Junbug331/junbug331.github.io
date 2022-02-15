@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "안녕하세요 !"
-summary: This is a sample post 2 by HG !
+summary: This is a sample post 2 by Jun !
 author: JHJ
 date: '2022-02-15'
 category: jekyll
